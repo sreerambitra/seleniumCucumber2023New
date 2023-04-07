@@ -1,0 +1,175 @@
+2023-04-07 05:26:21,810 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 05:26:21,891 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 05:26:26,716 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 05:26:27,552 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 05:26:27,767 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 05:26:36,027 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 05:26:36,117 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 05:26:36,327 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 05:26:39,393 [main] INFO  seleniumCucumber2023New:143 - ***Add New Button is Clicked***
+2023-04-07 05:26:41,805 [main] INFO  seleniumCucumber2023New:149 - ***Customer Page is displayed***
+2023-04-07 05:26:49,174 [main] INFO  seleniumCucumber2023New:173 - ***Save Button is Clicked***
+2023-04-07 05:27:00,361 [main] INFO  seleniumCucumber2023New:180 - ***Confirmation message is displayed***
+2023-04-07 05:27:01,457 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 05:27:20,225 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 05:27:20,228 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 05:27:26,036 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 05:27:26,315 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 05:27:26,614 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 05:27:34,628 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 05:27:34,652 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 05:27:34,754 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 05:27:36,789 [main] INFO  seleniumCucumber2023New:187 - ***Customer is Searched by Email***
+2023-04-07 05:27:37,497 [main] INFO  seleniumCucumber2023New:195 - ***Customer is Displayed***
+2023-04-07 05:27:40,747 [main] INFO  seleniumCucumber2023New:202 - ***Customer is Displayed in the table***
+2023-04-07 05:27:41,280 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 05:46:04,167 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 05:46:04,274 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 05:46:08,863 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 05:46:09,964 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 05:46:10,222 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 05:46:18,695 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 05:46:18,719 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 05:46:18,845 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 05:46:22,188 [main] INFO  seleniumCucumber2023New:143 - ***Add New Button is Clicked***
+2023-04-07 05:46:26,574 [main] INFO  seleniumCucumber2023New:149 - ***Customer Page is displayed***
+2023-04-07 05:46:34,709 [main] INFO  seleniumCucumber2023New:173 - ***Save Button is Clicked***
+2023-04-07 05:46:41,423 [main] INFO  seleniumCucumber2023New:180 - ***Confirmation message is displayed***
+2023-04-07 05:46:42,560 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 05:46:59,812 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 05:46:59,817 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 05:47:04,306 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 05:47:04,606 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 05:47:04,823 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 05:47:11,282 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 05:47:11,299 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 05:47:11,427 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 05:47:13,564 [main] INFO  seleniumCucumber2023New:187 - ***Customer is Searched by Email***
+2023-04-07 05:47:14,319 [main] INFO  seleniumCucumber2023New:195 - ***Customer is Displayed***
+2023-04-07 05:47:17,593 [main] INFO  seleniumCucumber2023New:202 - ***Customer is Displayed in the table***
+2023-04-07 05:47:17,751 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 05:52:21,195 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 05:52:21,283 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 05:52:25,714 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 05:52:26,118 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 05:52:26,407 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 05:52:34,733 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 05:52:34,758 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 05:52:34,945 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 05:52:37,197 [main] INFO  seleniumCucumber2023New:143 - ***Add New Button is Clicked***
+2023-04-07 05:52:39,767 [main] INFO  seleniumCucumber2023New:149 - ***Customer Page is displayed***
+2023-04-07 05:52:46,040 [main] INFO  seleniumCucumber2023New:173 - ***Save Button is Clicked***
+2023-04-07 05:52:50,000 [main] INFO  seleniumCucumber2023New:180 - ***Confirmation message is displayed***
+2023-04-07 05:52:50,405 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 05:52:56,353 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 05:52:56,357 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 05:53:00,478 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 05:53:00,721 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 05:53:00,960 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 05:53:07,239 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 05:53:07,255 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 05:53:07,497 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 05:53:09,713 [main] INFO  seleniumCucumber2023New:187 - ***Customer is Searched by Email***
+2023-04-07 05:53:10,355 [main] INFO  seleniumCucumber2023New:195 - ***Customer is Displayed***
+2023-04-07 05:53:13,602 [main] INFO  seleniumCucumber2023New:202 - ***Customer is Displayed in the table***
+2023-04-07 05:53:13,952 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 07:52:59,427 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 07:52:59,621 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 07:53:04,012 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 07:53:04,995 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 07:53:05,209 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 07:53:12,405 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 07:53:12,426 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 07:53:12,586 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 07:53:15,193 [main] INFO  seleniumCucumber2023New:143 - ***Add New Button is Clicked***
+2023-04-07 07:53:19,011 [main] INFO  seleniumCucumber2023New:149 - ***Customer Page is displayed***
+2023-04-07 07:53:26,358 [main] INFO  seleniumCucumber2023New:173 - ***Save Button is Clicked***
+2023-04-07 07:53:30,092 [main] INFO  seleniumCucumber2023New:180 - ***Confirmation message is displayed***
+2023-04-07 07:53:30,979 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 07:53:38,177 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 07:53:38,184 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 07:53:42,322 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 07:53:42,602 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 07:53:42,805 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 07:53:49,907 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 07:53:49,955 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 07:53:50,089 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 07:53:51,861 [main] INFO  seleniumCucumber2023New:187 - ***Customer is Searched by Email***
+2023-04-07 07:53:52,262 [main] INFO  seleniumCucumber2023New:195 - ***Customer is Displayed***
+2023-04-07 07:53:55,472 [main] INFO  seleniumCucumber2023New:202 - ***Customer is Displayed in the table***
+2023-04-07 07:53:55,974 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 21:42:52,462 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 21:42:52,697 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 21:42:57,042 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 21:42:57,574 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 21:42:57,822 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 21:43:05,671 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 21:43:05,698 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 21:43:05,888 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 21:43:08,713 [main] INFO  seleniumCucumber2023New:143 - ***Add New Button is Clicked***
+2023-04-07 21:43:13,279 [main] INFO  seleniumCucumber2023New:149 - ***Customer Page is displayed***
+2023-04-07 21:43:20,229 [main] INFO  seleniumCucumber2023New:173 - ***Save Button is Clicked***
+2023-04-07 21:43:24,876 [main] INFO  seleniumCucumber2023New:180 - ***Confirmation message is displayed***
+2023-04-07 21:43:25,600 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 21:43:42,768 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 21:43:42,772 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 21:43:47,320 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 21:43:47,580 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 21:43:47,849 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 21:43:54,308 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 21:43:54,322 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 21:43:54,467 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 21:43:56,368 [main] INFO  seleniumCucumber2023New:187 - ***Customer is Searched by Email***
+2023-04-07 21:43:56,983 [main] INFO  seleniumCucumber2023New:195 - ***Customer is Displayed***
+2023-04-07 21:44:00,326 [main] INFO  seleniumCucumber2023New:202 - ***Customer is Displayed in the table***
+2023-04-07 21:44:00,640 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 21:48:02,070 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 21:48:02,180 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 21:48:06,968 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 21:48:07,319 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 21:48:07,636 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 21:48:15,554 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 21:48:15,581 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 21:48:15,752 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 21:48:18,396 [main] INFO  seleniumCucumber2023New:143 - ***Add New Button is Clicked***
+2023-04-07 21:48:22,759 [main] INFO  seleniumCucumber2023New:149 - ***Customer Page is displayed***
+2023-04-07 21:48:30,267 [main] INFO  seleniumCucumber2023New:173 - ***Save Button is Clicked***
+2023-04-07 21:48:34,058 [main] INFO  seleniumCucumber2023New:180 - ***Confirmation message is displayed***
+2023-04-07 21:48:34,468 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 21:48:42,848 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 21:48:42,857 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 21:48:47,413 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 21:48:47,721 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 21:48:48,000 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 21:48:54,401 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 21:48:54,491 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 21:48:54,615 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 21:48:56,979 [main] INFO  seleniumCucumber2023New:187 - ***Customer is Searched by Email***
+2023-04-07 21:48:58,711 [main] INFO  seleniumCucumber2023New:195 - ***Customer is Displayed***
+2023-04-07 21:49:02,093 [main] INFO  seleniumCucumber2023New:202 - ***Customer is Displayed in the table***
+2023-04-07 21:49:02,253 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 21:54:06,974 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 21:54:07,129 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 21:54:11,824 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 21:54:13,198 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 21:54:13,392 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 21:54:20,031 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 21:54:20,098 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 21:54:20,207 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 21:54:23,181 [main] INFO  seleniumCucumber2023New:143 - ***Add New Button is Clicked***
+2023-04-07 21:54:26,749 [main] INFO  seleniumCucumber2023New:149 - ***Customer Page is displayed***
+2023-04-07 21:54:33,630 [main] INFO  seleniumCucumber2023New:173 - ***Save Button is Clicked***
+2023-04-07 21:54:37,483 [main] INFO  seleniumCucumber2023New:180 - ***Confirmation message is displayed***
+2023-04-07 21:54:38,031 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
+2023-04-07 21:54:49,498 [main] INFO  seleniumCucumber2023New:56 - ***Launching Browser***
+2023-04-07 21:54:49,506 [main] INFO  seleniumCucumber2023New:66 - ***Entering URLr***
+2023-04-07 21:54:53,427 [main] INFO  seleniumCucumber2023New:73 - ***Entering Email***
+2023-04-07 21:54:53,714 [main] INFO  seleniumCucumber2023New:75 - ***Entering Password***
+2023-04-07 21:54:53,951 [main] INFO  seleniumCucumber2023New:80 - ***Login button is clicked***
+2023-04-07 21:55:01,185 [main] INFO  seleniumCucumber2023New:124 - ***Title is Verified***
+2023-04-07 21:55:01,198 [main] INFO  seleniumCucumber2023New:131 - ***Customer Menu is Clicked***
+2023-04-07 21:55:01,322 [main] INFO  seleniumCucumber2023New:137 - ***Customer Menu Item is Clicked***
+2023-04-07 21:55:03,433 [main] INFO  seleniumCucumber2023New:187 - ***Customer is Searched by Email***
+2023-04-07 21:55:04,734 [main] INFO  seleniumCucumber2023New:195 - ***Customer is Displayed***
+2023-04-07 21:55:07,988 [main] INFO  seleniumCucumber2023New:202 - ***Customer is Displayed in the table***
+2023-04-07 21:55:08,350 [main] INFO  seleniumCucumber2023New:116 - ***Browser is Closed***
